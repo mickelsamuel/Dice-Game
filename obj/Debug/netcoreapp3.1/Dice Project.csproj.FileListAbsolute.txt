@@ -1,0 +1,36 @@
+C:\Users\2050242\Desktop\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.exe
+C:\Users\2050242\Desktop\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.deps.json
+C:\Users\2050242\Desktop\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.runtimeconfig.json
+C:\Users\2050242\Desktop\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.runtimeconfig.dev.json
+C:\Users\2050242\Desktop\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.dll
+C:\Users\2050242\Desktop\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.pdb
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.csproj.AssemblyReference.cache
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice_Project.Form1.resources
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.csproj.GenerateResource.cache
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.AssemblyInfoInputs.cache
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.AssemblyInfo.cs
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.csproj.CoreCompileInputs.cache
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.dll
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.pdb
+C:\Users\2050242\Desktop\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.genruntimeconfig.cache
+C:\Users\micke\Desktop\Dice_Project\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.exe
+C:\Users\micke\Desktop\Dice_Project\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.deps.json
+C:\Users\micke\Desktop\Dice_Project\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.runtimeconfig.json
+C:\Users\micke\Desktop\Dice_Project\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.runtimeconfig.dev.json
+C:\Users\micke\Desktop\Dice_Project\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.dll
+C:\Users\micke\Desktop\Dice_Project\Dice Project\bin\Debug\netcoreapp3.1\Dice Project.pdb
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.csproj.AssemblyReference.cache
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice_Project.Form1.resources
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.csproj.GenerateResource.cache
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.AssemblyInfoInputs.cache
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.AssemblyInfo.cs
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.csproj.CoreCompileInputs.cache
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.dll
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.pdb
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.genruntimeconfig.cache
+C:\Users\micke\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice_Project.Properties.Resources.resources
+C:\Users\Mickel\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.csproj.AssemblyReference.cache
+C:\Users\Mickel\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.dll
+C:\Users\Mickel\Desktop\Dice_Project\Dice Project\obj\Debug\netcoreapp3.1\Dice Project.pdb
